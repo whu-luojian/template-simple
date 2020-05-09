@@ -1,0 +1,16 @@
+{
+  "name": "@yanluo/template-simple",
+  "version": "1.0.0",
+  "description": "A template for creating a empty project with basic eslint、typescript、commitlint、changelog config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["template", "commitlint", "eslint", "typescript"],
+  "author": "whu-luojian",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whu-luojian/template-simple.git"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "prompts": {
+    "name": {
+      "type": "string",
+      "required": true,
+      "label": "Project name"
+    },
+    "description": {
+      "type": "string",
+      "required": true,
+      "label": "Project description",
+      "default": "A empty project with eslint、commitlint、typescript"
+    },
+    "author": {
+      "type": "string",
+      "label": "Author"
+    }
+  }
+}
